@@ -1,0 +1,186 @@
+.title-heading1 {
+    color: #ebdfdf;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 100;
+    padding: auto;
+    position: absolute;
+    top: 20%;
+    bottom: 50%;
+    left: 40%;
+}
+
+.title-heading2 {
+    color: #f9f6f6;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 100;
+    max-width: none;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 20%;
+    bottom: 50%;
+}
+
+.title-image {
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.a65 {
+    text-align: center;
+    color: red;
+}
+
+.holiday {
+    text-align: center;
+    color: rgb(162, 38, 38);
+}
+
+.all-categories {
+    text-align: center;
+}
+.happy{
+    text-align: center;
+    
+}
+
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    
+}
+.image2 {
+    position: absolute;
+    top: 30px;
+    left: 850px;
+}
+.butn{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.welcome-to {
+    color: #f3ecec;
+    margin: 0px 552px 298px 126px;
+    font-size: 48px;
+    position: absolute;
+    top: 0;
+    left:0 ;
+    
+    font-weight: 900;
+    
+
+}
+
+.para {
+    color: #f3ecec;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 300px 497px 214px 126px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.btn{
+    text-align: center;
+    margin: 300px 497px 214px 126px;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.gifts{
+    color: red;
+}
+.imag1,.imag2{
+    
+   display:flex;
+}
+.img1,.img2{
+    margin-right: 24px;
+    margin-top: 24px;
+}
+.subscribe{
+    background: rgba(255, 0, 0, 0.05);
+}
+.icon{
+    text-align: center;
+}
+.icon-head{
+    text-align: center;
+}
+.icon-para{
+    text-align: center;
+    margin: 0 352px;
+}
+span{
+    color: red;
+}
+.hotel{
+    text-align: center;
+    background: rgba(255, 0, 0, 0.05);
+    padding:  100px;
+}
+.butn2{
+    border: 8px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    background: #F00;
+}
+.coming-soon{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.section{
+    text-align: center;
+    justify-content: center;
+    max-width: 250px;
+    padding-right:100px ;
+}
+.pic{
+    padding-right: 100px;
+    border: #F00;
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 150px;
+}
+.chitro1{
+    position: relative;
+    top: 5px;
+    left: 445px;
+}
+.discount{
+    text-align: center;
+  
+}
+.chitro{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.chitro3{
+    position: absolute;
+    top: 100px;
+    left:800px;
+
+}
+.chitro4{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
